@@ -25,5 +25,5 @@ Project was divided into three notebooks namely:
 * [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/) - data analysis
 * [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) - data visualization
 * [Spotipy](https://spotipy.readthedocs.io/) - access to Spotify Web API
-* [Hadoop] - storage in HDFS
-* [Pyspark] - model training using mlib classifiers
+* [Hadoop](https://hadoop.apache.org/docs/r3.2.2/) - storage in HDFS
+* [Pyspark](https://spark.apache.org/docs/latest/api/python/pyspark.mllib.html) - model training using mlib classifiers
