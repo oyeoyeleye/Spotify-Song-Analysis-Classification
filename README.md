@@ -2,7 +2,7 @@
 A classification problem of song popularity
 
 
-## 🌱 Motivation
+## Motivation
 
 Main motivation for this project is to do a full data analysis project including setting up a data retrieval pipeline from scratch, analyzing and gaining insights from data using Python and SQL as well as data modeling using machine learning algorithm.
 
