@@ -16,7 +16,7 @@ Main motivation for this project is to do a full data analysis project including
 Project was divided into three notebooks namely:
 
 * Project - Data Pre-processing: Generating dataset with the use of spotipy api and data cleaning and pro-processing
-* Data EDA AND VISUALIZATION WITH DATA FINALIZING: Data insights and visualization of necessary insights
+* Project - Data EDA AND VISUALIZATION: Data insights and visualization of necessary insights
 * Project - Prediction and Classifications: Classification using Logistics and Decision tree and model evaluation on generated dataset.
 
 
